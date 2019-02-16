@@ -2,3 +2,6 @@
 **/*.rs.bk
 *.swp
 *.swo
+image.raw
+OVMF.fd
+*.efi

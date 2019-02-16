@@ -10,4 +10,5 @@ edition = "2018"
 [dependencies]
 clap = "2.32"
 fatfs = "0.3"
+fscommon = "0.1"
 tempfile = "3.0"
